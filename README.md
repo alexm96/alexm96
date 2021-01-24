@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexm96&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexm96&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **alexm96/alexm96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
